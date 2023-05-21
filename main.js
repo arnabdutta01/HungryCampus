@@ -313,7 +313,7 @@ const product = [
   },
   {
     id: 18,
-    image: 'images/dal.jpg',
+    image: 'dal.jpg',
     title: 'rice',
     type: 'Dessert',
     price: 20,
